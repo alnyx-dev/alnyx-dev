@@ -108,6 +108,15 @@ Unity game project crafted with the **ComRats** team.
 
 </div>
 
+<!-- ====================== 3D CONTRIBUTIONS ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:282c34,100:98c379&height=42&section=header&text=%203D%20Contributions&fontColor=abb2bf&fontSize=24&fontAlignY=58&textBg=false" width="100%" />
+
+<div align="center">
+
+<img src="./assets/3d-contrib.svg" alt="3D contribution graph" width="95%" />
+
+</div>
+
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 

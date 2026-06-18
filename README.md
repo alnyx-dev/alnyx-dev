@@ -27,16 +27,6 @@ const alnyx = {
 };
 ```
 
-<!-- ====================== CURRENTLY ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:282c34,100:98c379&height=42&section=header&text=%20Currently&fontColor=abb2bf&fontSize=24&fontAlignY=58&textBg=false" width="100%" />
-
-- 🔭 **Building** — [SetupWeaver](https://github.com/alnyx-dev/SetupWeaver), a blazing-fast Windows installer builder in Rust
-- 🎮 **Crafting** — Unity 2D/3D games with **Kavun Studio** & **ComRats**
-- 🌱 **Learning** — deeper Rust internals & modern game-engine architecture
-- 👯 **Open to collaborate** — indie game projects and dev tooling
-- 💬 **Ask me about** — `C#` · `Rust` · `Unity` · `.NET`
-- ⚡ **Fun fact** — vibecoder at heart: ship fast, polish hard
-
 <!-- ====================== TECH STACK ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:282c34,100:c678dd&height=42&section=header&text=%20Tech%20Stack&fontColor=abb2bf&fontSize=24&fontAlignY=58&textBg=false" width="100%" />
 

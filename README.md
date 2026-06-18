@@ -106,7 +106,9 @@ Unity game project crafted with the **ComRats** team.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alnyx-dev&hide_border=true&bg_color=282c34&color=61afef&line=c678dd&point=e5c07b&area=true&area_color=3e4451" alt="activity graph" width="95%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=alnyx-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=alnyx-dev&theme=onedark&column=7&margin-w=8&margin-h=8" alt="trophies" width="95%" />
 
 </div>
 

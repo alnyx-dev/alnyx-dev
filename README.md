@@ -13,20 +13,6 @@
 
 </div>
 
-<!-- ====================== ABOUT ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:282c34,100:61afef&height=42&section=header&text=%20About%20me&fontColor=abb2bf&fontSize=24&fontAlignY=58&textBg=false" width="100%" />
-
-```ts
-const alnyx = {
-  role:       "Game & Systems Developer",
-  studios:    ["Kavun Studio", "ComRats"],
-  focus:      ["Unity 2D/3D games", "Windows tooling", "AI-powered apps"],
-  languages:  ["C#", "Rust", "JavaScript", "ShaderLab"],
-  location:   "UTC+3 · 🏠 Working from home",
-  philosophy: "Ship fast, polish hard — vibecode with intent.",
-};
-```
-
 <!-- ====================== TECH STACK ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:282c34,100:c678dd&height=42&section=header&text=%20Tech%20Stack&fontColor=abb2bf&fontSize=24&fontAlignY=58&textBg=false" width="100%" />
 

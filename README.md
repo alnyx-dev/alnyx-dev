@@ -108,18 +108,6 @@ Unity game project crafted with the **ComRats** team.
 
 </div>
 
-<!-- ====================== ACHIEVEMENTS ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:282c34,100:e5c07b&height=42&section=header&text=%20Achievements&fontColor=abb2bf&fontSize=24&fontAlignY=58&textBg=false" width="100%" />
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%A6%88_Pull_Shark-%C3%972-282c34?style=for-the-badge&labelColor=61afef" alt="Pull Shark x2" />
-<img src="https://img.shields.io/badge/%F0%9F%91%AF_Pair_Extraordinaire-unlocked-282c34?style=for-the-badge&labelColor=c678dd" alt="Pair Extraordinaire" />
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_YOLO-unlocked-282c34?style=for-the-badge&labelColor=e06c75" alt="YOLO" />
-<img src="https://img.shields.io/badge/%E2%9A%A1_Quickdraw-unlocked-282c34?style=for-the-badge&labelColor=e5c07b" alt="Quickdraw" />
-
-</div>
-
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 

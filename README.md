@@ -8,9 +8,7 @@
 <!-- ====================== MINIMAL STATS ====================== -->
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alnyx-dev&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&bg_color=282c34&title_color=61afef&icon_color=c678dd&text_color=abb2bf" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnyx-dev&layout=compact&theme=onedark&hide_border=true&langs_count=6&bg_color=282c34&title_color=61afef&text_color=abb2bf" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alnyx-dev&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=alnyx-dev&show_icons=true&include_all_commits=true&theme=dark)
 
 </div>
 
@@ -20,3 +18,5 @@
 <img height="160" src="https://streak-stats.demolab.com?user=alnyx-dev&theme=onedark&hide_border=true&background=282c34&ring=c678dd&fire=61afef&currStreakLabel=abb2bf" />
 
 </div>
+
+
